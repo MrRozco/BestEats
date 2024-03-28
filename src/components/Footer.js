@@ -25,7 +25,7 @@ function Footer() {
                 <div className='flex flex-col gap-6'>
                     <a href='/'>Get Help</a>
                     <a href='/'>FAQs</a>
-                    <a href='/'>Blogs</a>
+                    <a href='/'>Blog</a>
                 </div>
             </div>
         </div>

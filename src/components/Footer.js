@@ -10,7 +10,7 @@ function Footer() {
             <div >
                 <div> <h1 className= 'text-2xl sm:text-3xl lg:text-4xl px-2 mr-2'>
               Best <spans className='font-bold'>Eats</spans></h1>  </div>
-                <div className='flex flex-col md:flex-row gap-1 mt-20' >
+                <div className='hidden md:flex gap-1 mt-20' >
                     <img className='  max-h-[40px] lg:max-h-[40px] w-full object-cover' src={appStoreLogo} alt='Apple Logo' />
                     <img className='max-h-[40px] lg:max-h-[40px] w-full object-cover' src={googleStoreLogo} alt='Google Logo' />
                 </div>
